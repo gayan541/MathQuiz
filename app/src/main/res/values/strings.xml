@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="btn_start">Start Game</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="enter_username">Please Enter UserName</string>
+    <string name="txt_game_over">Game Over</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_true">True</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_false">False</string>
+    <string name="btn_logout">Logout</string>
+    <string name="msg_time_out">Time Out</string>
+    <string name="txt_score">Score</string>
+    <string name="txt_level">Level</string>
+
+    <string name="txt_m">M</string>
+    <string name="txt_a">A</string>
+    <string name="txt_t">T</string>
+    <string name="txt_h">H</string>
+    <string name="txt_q">Q</string>
+    <string name="txt_u">U</string>
+    <string name="txt_i">I</string>
+    <string name="txt_z">Z</string>
+
+
+
+</resources>
